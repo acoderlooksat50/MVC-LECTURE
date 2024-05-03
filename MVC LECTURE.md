@@ -45,6 +45,8 @@ the HTML.
 
 4.  The information is then sent back to the user.
 
+![MVC DIAGRAM](MVC DIAGRAM.drawio.png)
+
 ## CONCLUSSION
 
 The Model-View-Controller (MVC) design pattern is a powerful architectural pattern for developing backend JavaScript projects. By dividing 
